@@ -8,8 +8,12 @@
 </head>
 <body>
   <h2>Hello git</h2>
+<<<<<<< HEAD
   <h5>코리아 그랜드 페스타</h5>
   
   
+=======
+  <h2>충돌테스트</h2>
+>>>>>>> refs/heads/test
 </body>
 </html>
